@@ -16,3 +16,6 @@
 [submodule "git/gawk"]
 	path = git/gawk
 	url = git://git.savannah.gnu.org/gawk.git
+[submodule "git/gettext"]
+	path = git/gettext
+	url = git://git.savannah.gnu.org/gettext.git
