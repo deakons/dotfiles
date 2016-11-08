@@ -1,3 +1,6 @@
 [submodule "git/bash"]
 	path = git/bash
 	url = git://git.savannah.gnu.org/bash.git
+[submodule "git/zsh"]
+	path = git/zsh
+	url = git://git.code.sf.net/p/zsh/code
