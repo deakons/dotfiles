@@ -7,3 +7,6 @@
 [submodule "git/vim"]
 	path = git/vim
 	url = https://github.com/vim/vim.git
+[submodule "git/git"]
+	path = git/git
+	url = https://github.com/git/git
