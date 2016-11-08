@@ -10,12 +10,6 @@
 [submodule "git/git"]
 	path = git/git
 	url = https://github.com/git/git
-[submodule "git/coreutils"]
-	path = git/coreutils
-	url = git://git.sv.gnu.org/coreutils
 [submodule "git/gawk"]
 	path = git/gawk
 	url = git://git.savannah.gnu.org/gawk.git
-[submodule "git/gettext"]
-	path = git/gettext
-	url = git://git.savannah.gnu.org/gettext.git
