@@ -4,3 +4,6 @@
 [submodule "git/zsh"]
 	path = git/zsh
 	url = git://git.code.sf.net/p/zsh/code
+[submodule "git/vim"]
+	path = git/vim
+	url = https://github.com/vim/vim.git
